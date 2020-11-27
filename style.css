@@ -1,0 +1,208 @@
+body {
+    background-color: #000000;
+
+}
+
+/*nav bar*/
+.bar {
+    position: absolute;
+    width: 1280px;
+    height: 51px;
+    left: 0px;
+    top: 200px;
+    
+    
+    background: #B20000;
+        }
+/*
+.welcome {
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    left: 547px;
+    top: 190px;
+            
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+            
+    color: #000000;
+    }*/
+/*home*/
+.test {
+    position:  absolute;
+    width: 25px;
+    height: 25px;
+    font-size: 24px;
+    left: 160px;
+    top: 210px;
+    color: white;
+}
+/*activity*/
+.test2 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    font-size: 24px;
+    left: 290px;
+    top: 210px;
+    color: white;
+}
+/*logo 1*/
+.image{
+    position: absolute;
+    height: 400px;
+    width: 800px;
+    left: 240px;
+    top: 251px;
+    }
+/*tab icon*/
+.icon {
+    position: absolute;
+    width: 20px;
+    height: 10px;
+}
+
+/*.whitetest {
+    color: white;
+}*/
+/*Tutorial*/
+.tutorial {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    font-size: 24px;
+    top: 210px;
+    left: 425px;
+    color: white;
+}
+/*text logo*/
+.ph {
+    position: absolute;
+    color: white;
+    width: 600px;
+    height: 50px;
+    left: 350px;
+    font-size: 80px;
+}
+/*update page*/
+.update1 {
+    position: absolute;
+    color: white;
+    height: 25px;
+    width: 200px;
+    top: 800px;
+}
+/*bottom bar*/
+.bar2 {
+    position: absolute;
+    width: 1280px;
+    height: 51px;
+    left: 0px;
+    top: 651px;
+    background: #B20000;
+}
+/*contact page*/
+.contact {
+    position: absolute;
+    color: white;
+    width: 25px;
+    height: 25px;
+    font-size: 24px;
+    top: 210px;
+    left: 570px;
+}
+/*smaller logo*/
+.image2 {
+    position: absolute;
+    height: 90px;
+    width: 200px;
+    top: 50px;
+    left: 0px;
+
+}
+/*home background*/
+.test1bg {
+    position: absolute;
+    width: 100px;
+    height: 51px;
+    top: 200px;
+    left: 140px;
+    background-color: grey;
+    
+}
+
+/*.updatebg:hover {
+    background-color: gold;
+}*/
+
+/*.update1:hover {
+    background-color: gold;
+}*/
+/*update background*/
+.updatebg {
+    left: 280px;
+    top: 200px;
+    position: absolute;
+    background-color: gray;
+    width: 100px;
+    height: 51px;
+}
+/*tutorial background*/
+.tutorialbg {
+    position: absolute;
+    background-color: grey;
+    top: 200px;
+    left: 419px;
+    width: 100px;
+    height: 51px;
+
+}
+/*contact background*/
+.contactbg {
+    position: absolute;
+    width: 100px;
+    height: 51px;
+    top: 200px;
+    left: 558px;
+    background-color: grey;
+}
+/*forum page*/
+.forums {
+    position: absolute;
+    color: white;
+    top: 210px;
+    left: 710px;
+    width: 25px;
+    height: 25px;
+    font-size: 24px;
+}
+/*forums background*/
+.forumsbg {
+    position: absolute;
+    background-color: gray;
+    width: 100px;
+    height: 51px;
+    top: 200px;
+    left: 695px;
+}
+
+.discord {
+    color: white;
+    position: absolute;
+    top: 900px;
+    left: 50px;
+    font-size: 20px;
+}
+
+.copy {
+    position: absolute;
+    color: white;
+    text-align: center;
+    height: 10px;
+    width: 100;
+    top: 1000px;
+    left: 450px;
+}
